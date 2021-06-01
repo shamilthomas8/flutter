@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "801642357513",
+    "firebase_url": "https://flash-chat-cdba1.firebaseio.com",
+    "project_id": "flash-chat-cdba1",
+    "storage_bucket": "flash-chat-cdba1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801642357513:android:5a73fa0e860e83df2469d8",
+        "android_client_info": {
+          "package_name": "co.Shamil.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801642357513-38frl9ihesph8dsdkf853quvg39uqial.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACxrQoiLOnctnbQaOfC4ePNEWQONO6ykQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801642357513-38frl9ihesph8dsdkf853quvg39uqial.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
